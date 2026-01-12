@@ -1,0 +1,7 @@
+total 8
+-rwxrwxrwx 1 bipkrsng bipkrsng    0 Jan 12 01:11 delete.py
+-rwxrwxrwx 1 bipkrsng bipkrsng  170 Jan 12 00:53 demo.py
+-rwxrwxrwx 1 bipkrsng bipkrsng    0 Jan 12 15:31 files.txt
+-rwxrwxrwx 1 bipkrsng bipkrsng 7581 Jan 12 00:40 git-revision.md
+-rwxrwxrwx 1 bipkrsng bipkrsng   22 Jan 12 14:38 linux.md
+-rwxrwxrwx 1 bipkrsng bipkrsng   26 Jan 12 01:05 test1.py
